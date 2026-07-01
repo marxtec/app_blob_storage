@@ -26,7 +26,7 @@ container = blob_service.get_container_client(CONTAINER_NAME)
 # INTERFAZ
 # =======================
 st.set_page_config(page_title="Blob Storage App", page_icon="☁️")
-st.title("☁️ Azure Blob Storage — Subir y Descargar Archivos")
+st.title("☁️ Azure Blob Storage — Subir y Descargar Archivos:D")
 
 # --- SUBIR ARCHIVO ---
 st.subheader("📤 Subir archivo")
